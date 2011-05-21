@@ -1,0 +1,10 @@
+# Ignore built files
+*.flac
+*.ogg
+*.mp3
+
+# Ignore non-git hidden files
+.*
+!.gitignore
+!.gitmodules
+
